@@ -1,5 +1,5 @@
 
-## Week 3 Data Warehouse Homework Queries
+## Week 3 Data Warehouse Homework
 
 Question 1: What is count of records for the 2022 Green Taxi Data?
 -   65,623,481
